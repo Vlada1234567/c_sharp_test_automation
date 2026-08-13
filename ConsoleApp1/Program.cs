@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             // test com
             // test from d-okhrimenko
+            Console.WriteLine("hello world!");
         }
     }
 }
